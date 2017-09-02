@@ -13,7 +13,7 @@ import com.github.abola.crawler.CrawlerPack;
  * 1. 利用Graph Api調整出需要的資料
  * 2. 取得一組Access Token (試著使用 long term token)
  * 3. 試著用『excel』或任何最簡易的方式，對資料進行探索
- * 
+ * g
  * @author Abola Lee
  *
  */
